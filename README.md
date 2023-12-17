@@ -1,4 +1,4 @@
-# Dio Navialdy - GitHub Repository
+# Dio Navialdy - Final Project Computer Vision
 
 ## Introduction
 
